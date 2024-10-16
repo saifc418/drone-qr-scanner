@@ -210,6 +210,10 @@ if len(qrCodes) == 1:
 
     print(f"The QR code: {qrCodes}")
 
+elif len(qrCodes) == 0:
+    
+    print("No QR codes found.")
+
 else:
 
     print(f"The QR codes: {qrCodes}")
