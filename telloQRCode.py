@@ -77,7 +77,7 @@ while running:
         rectanglePoints = code.rect
 
         # Uncomment this to visualize all four points
-        #print(rect_pts)
+        #print(rectanglePoints)
 
         # Run this block if there is a URL
         if url:
